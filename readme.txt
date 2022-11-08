@@ -1,2 +1,2 @@
-# Future Ready Talent project by Aditya kadu
+# Data-Science-Connect1
 
