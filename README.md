@@ -1,5 +1,5 @@
 # Future Ready Talent Project By Aditya Jitendra Kadu.
-Data-Science-Connect Project-1
+Data science connect project 1: 
 https://adkadu.000webhostapp.com
 
 ![2022-11-08](https://user-images.githubusercontent.com/117461241/200495378-42bf5ff0-8ae1-4b9c-8061-d7cb6813051b.png)
@@ -17,4 +17,5 @@ https://adkadu.000webhostapp.com
 
 Data science is an interdisciplinary field that uses scientific methods, algorithms, and systems to extract knowledge and insights from data. It combines various fields like mathematics, statistics, computer science, and domain expertise to analyze large amounts of data, uncover hidden patterns, and make informed decisions. 
 Hence, This project successfully completed for this new model...
+
 
