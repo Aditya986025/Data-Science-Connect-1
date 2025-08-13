@@ -17,7 +17,7 @@ https://adkadu.000webhostapp.com
 
 Data science is an interdisciplinary field that uses scientific methods, algorithms, and systems to extract knowledge and insights from data. It combines various fields like mathematics, statistics, computer science, and domain expertise to analyze large amounts of data, uncover hidden patterns, and make informed decisions. 
 Impact of Data Science
-Reduced medical risks through predictive alerts.
+Reduced medical risks and utilization through predictive alerts.
 
 Optimized nurse schedules using alert heatmaps.
 
@@ -26,6 +26,7 @@ Historical analytics for better resource planning (saline stock, staff rotation)
 Foundation for broader AI-Driven Hospital Automation Systems.
 
 Hence, This project successfully completed for this new model...
+
 
 
 
