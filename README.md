@@ -25,7 +25,8 @@ Historical analytics for better resource planning (saline stock, staff rotation)
 
 Foundation for broader AI-Driven Hospital Automation Systems.
 
-Hence, This project successfully completed for this new models. 
+Hence, This project successfully completed for this new models.
+
 
 
 
